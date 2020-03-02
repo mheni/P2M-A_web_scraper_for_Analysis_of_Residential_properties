@@ -7,8 +7,7 @@ $ pip install bs4
 $ pip install requests
 $ pip install selenium
 ```
-2/ Download ChromeDriver from https://chromedriver.chromium.org/downloads
-
+2/ Download ChromeDriver from https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.20/ 
 3/ Change this ligne: 
 ```
 driver = webdriver.Chrome(r"C:\webdrivers\chromedriver.exe")
